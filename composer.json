@@ -28,6 +28,7 @@
         "drupal/page_manager": "^4.0@beta",
         "drupal/panels": "^4.4",
         "drupal/paragraphs": "^1.11",
+        "drupal/pathauto": "^1.6",
         "drupal/radix": "^4.8",
         "drupal/radix_layouts": "^4.1",
         "drush/drush": "^10.2"
